@@ -1,0 +1,8 @@
+install.packages("devtools")
+install.packages("huge")
+install_github("zdk123/SpiecEasi")
+install.packages("gtools")
+source('http://bioconductor.org/biocLite.R')
+biocLite('phyloseq')
+install.packages("Matrix")
+install.packages("igraph")
